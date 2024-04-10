@@ -1,0 +1,9 @@
+.border-box{
+    border: 1px solid black;
+}
+.border-box2{
+    align-items: center;
+    width: 8vw;
+    height: 50px;
+    border: 1px solid black;
+}
